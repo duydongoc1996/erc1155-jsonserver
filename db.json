@@ -2,15 +2,21 @@
   "cats": [
     {
       "id": 1,
-      "name": "cat #1"
+      "name": "cat #1",
+      "description": "cat number 1",
+      "image": "https://c.files.bbci.co.uk/12A9B/production/_111434467_gettyimages-1143489763.jpg"
     },
     {
       "id": 2,
-      "name": "cat #2"
+      "name": "cat #2",
+      "description": "cat number 2",
+      "image": "https://i.natgeofe.com/n/3861de2a-04e6-45fd-aec8-02e7809f9d4e/02-cat-training-NationalGeographic_1484324.jpg"
     },
     {
       "id": 3,
-      "name": "cat #3"
+      "name": "cat #3",
+      "description": "cat number 3",
+      "image": "https://cdn.britannica.com/22/206222-131-E921E1FB/Domestic-feline-tabby-cat.jpg"
     }
   ]
 }
